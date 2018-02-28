@@ -1,7 +1,5 @@
 ---
 title: Notes from Democracy and Social Capital
-published: true
-date: 27-10-2016
 categories: ["notes"]
 tags: ["trust", "social capital"]
 link-citations: true
