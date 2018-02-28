@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Notes and Stuff</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Notes and Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Civil society in Turkey</title>
+      <link>/post/2016-11-10-jenny_b_white/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-11-10-jenny_b_white/</guid>
+      <description>Reference: article from [@hann_civil_1996]
+Jenny B. White&amp;rsquo;s argument is that civic cultures exist in Turkey on a community level that precedes and upon which social movements build their networks.
+She also compare these &amp;ldquo;informal&amp;rdquo; community ties and political space to the more regulated organizations, arguing that the former are usually left behind in academic literature and therefore seriously understudied and under-represented.
+Two main problematic points come out by overcoming this misrepresentation, firstly we can see that civil society might be possible in Islamic countries and, as a cosequence for this, that a democratizing discourse is possible in Islam based cultures.</description>
+    </item>
+    
+  </channel>
+</rss>

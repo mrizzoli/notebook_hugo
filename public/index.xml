@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes and Stuff on Notes and Stuff</title>
+    <link>/</link>
+    <description>Recent content in Notes and Stuff on Notes and Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Civil society in Turkey</title>
+      <link>/post/2016-11-10-jenny_b_white/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016-11-10-jenny_b_white/</guid>
+      <description>&lt;p&gt;Reference: article from [@hann_civil_1996]&lt;/p&gt;
+
+&lt;p&gt;Jenny B. White&amp;rsquo;s argument is that civic cultures exist in Turkey on a community level that precedes and upon which social movements build their networks.&lt;/p&gt;
+
+&lt;p&gt;She also compare these &amp;ldquo;informal&amp;rdquo; community ties and political space to the more regulated organizations, arguing that the former are usually left behind in academic literature and therefore seriously understudied and under-represented.&lt;/p&gt;
+
+&lt;p&gt;Two main problematic points come out by overcoming this misrepresentation, firstly we can see that civil society might be possible in Islamic countries and, as a cosequence for this, that a democratizing discourse is possible in Islam based cultures.&lt;/p&gt;
+
+&lt;p&gt;The main problem about the underrepresentation of these supposedly informal communities is that they can be mistakenly confounded with kinship-based relationship thus leaving them outside of the definition of &lt;em&gt;civil society&lt;/em&gt; as forms of exclusion instead of inclusion.&lt;/p&gt;
+
+&lt;p&gt;In her fieldwork the Author found that among working class and urban poors develop forms of hybrid associations, that aren&amp;rsquo;t based on kinship (or common ancestors) nor by formal membership contracts (thus not easily identifiable on a bureaucratic basis). In her argument she sustains that these associations are born to address very specific community based problems, thus they can be short lived, nonetheless they represent forms of self-organization like grassroots movements as forms of reaction to perceived(?) problems.&lt;/p&gt;
+
+&lt;p&gt;On the other hand they might be very different than &amp;ldquo;formal&amp;rdquo; organizations like human rights groups, both in the members&amp;rsquo; composition (which is usually middle-class and well educated) in their scopes (community based tend to address very practical issues with a narrower scope of action, like water shortage in the neighbourhood) but also in their reflexivity (this is actually a guess from me)&lt;/p&gt;
+
+&lt;p&gt;The exclusion of popular, grassroots informal movements from the conceptualizatoin of civil society becomes more problematic in contexts where specific roles exclude categories of people from the public sphere, as for example in Turkey where the gendered role of women (in particular in poor neighbourhoods or in rural areas )puts serious limits to their agency as political activists or social civil actors. In this case for example informal activism contributes to create a parallel political space where women&amp;rsquo;s participation is not seen with disproval.&lt;/p&gt;
+
+&lt;p&gt;In her research in Umraniye she found that women, although being limited by their gendered role and sometimes also excluded from the workforce for that,  participate in neighbourhood life through an extended net of reciprocal indebtedness and mutual help. There isn&amp;rsquo;t any expectation for a personal return besides the knowledge that the community will come to your help in case of need: the expectation of a direct reciprocity is here moved to an expectation of reciprocity (solidarity) from the community rather than from an individual who has a &amp;ldquo;social debt&amp;rdquo; with you:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The important thing is to keep relstions open ended, rther than closing them through direct reciprocation. This creates a broad communal web of mutual indebtedness, which provides long erm security. [&amp;hellip;] The question then [&amp;hellip;] should not be whether civil society and democracy are compatible with Islam, but rather to what extent particular state ideologies (of which Islam is but one of many) nourish civic culture.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
