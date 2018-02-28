@@ -1,10 +1,9 @@
-+++
-bibliography= "/home/mrizzoli/notes_src/biblio/biblio.bib"
-categories= ["essay"] 
-tags= ["unionism", "hegemony", "passive revolution "]
-link-citations= true
-title= "The Role of Labour Unions in Turkey’s Passive Revolution"
-+++
+---
+categories: ["essay"] 
+tags: ["unionism", "hegemony", "passive revolution "]
+link-citations: true
+title: "The Role of Labour Unions in Turkey’s Passive Revolution"
+---
 
 
 Introduction

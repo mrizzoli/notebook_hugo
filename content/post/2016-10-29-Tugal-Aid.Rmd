@@ -1,11 +1,11 @@
-+++
+---
 title= "Contesting Benevolence"
 published= true
 bibliography= [biblio.bib]
 categories= ["notes"]
 tags= ["third sector", "ngo", "developing economies"]
 link-citations= true
-+++
+---
 
 Reference: [@tugal_contesting_2013]
 

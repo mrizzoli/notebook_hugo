@@ -1,7 +1,7 @@
-+++
+---
 categories= ["notes"]
 title= "Note e Appunti per Tesi"
-+++
+---
 
 ##La non nascita della coscienza di classe in Turchia
 
