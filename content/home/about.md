@@ -12,10 +12,21 @@ weight = 75
   interests = [
     "Middle Eastern History and Politics",
     "Ethnography",
-    "Digital Humanities"
-  ]
+    "Cultural Sociology",
+    "Gramsci and Hegemony"
+]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Autumn School in Terrorism and Its Geopolitical Mutations"
+  institution = "SIOI and Nato Defense College Foundation"
+  year = 2016
+
+[[education.courses]]
+  course = "Summer School in Urban Ethnography"
+  institution = "University of Trento"
+  year = 2016
+
 [[education.courses]]
   course = "MA in Asian and African Languages and Cultures"
   institution = "Alma Mater Studiorum - University of Bologna"
