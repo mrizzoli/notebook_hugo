@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
+    link = "//twitter.com/ma_rizzoli"
 
   [[params.social]]
     icon = "github"
@@ -245,26 +245,38 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  parent = "genitore"
+  name = "All Posts"
+  url = "/post"
+  weight = 2
+
+[[menu.main]]
   name = "Essay"
   url = "/categories/essay"
-  weight = 2
+  weight = 3
   parent = "genitore"
 
 [[menu.main]]
   name = "Notes"
   url = "/categories/notes"
-  weight = 3
+  weight = 4
+  parent = "genitore"
+
+[[menu.main]]
+  name = "Review"
+  url = "/categories/review"
+  weight = 5
   parent = "genitore"
 
 [[menu.main]]
   name = "Tags"
   url = "#tags"
-  weight = 4
+  weight = 6
 
 [[menu.main]]
   name = "About"
   url = "#about"
-  weight = 5
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
