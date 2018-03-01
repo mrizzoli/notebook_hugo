@@ -4,6 +4,7 @@ bibliography: [biblio.bib]
 categories: ["notes"]
 tags: ["civil society", "turkey", "informal networks"]
 link-citations: true
+date: '2016-11-10'
 ---
 
 Reference: article from [@hann_civil_1996]

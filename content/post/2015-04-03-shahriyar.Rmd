@@ -3,6 +3,8 @@ title: "Influenze turche nella poesia persiana di inizio 1900"
 tags: ["poesia", "turco"]
 categories: ["essay"]
 link-citations: true
+bibliography: [biblio.bib]
+date: "2015-04-03"
 ---
 
 ##Introduzione

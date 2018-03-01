@@ -2,6 +2,8 @@
 title: Notes from Elusive Togetherness
 categories: ["notes"]
 tags: ["political sociology", "solidarity"]
+bibliography: [biblio.bib]
+date: '2016-09-27'
 ---
 
 Reference: [@lichterman_elusive_2005]

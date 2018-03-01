@@ -3,6 +3,8 @@ title: Notes from Democracy and Social Capital
 categories: ["notes"]
 tags: ["trust", "social capital"]
 link-citations: true
+bibliography: [biblio.bib]
+date: '2016-10-27'
 ---
 
 Reference: [@warren_democracy_1999]: Democracy and social capital by Eric M. Uslaner

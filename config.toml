@@ -239,20 +239,32 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
+  identifier = "genitore"
   name = "Posts"
   url = "/post"
   weight = 1
 
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 2
+[[menu.main]]
+  name = "Essay"
+  url = "/categories/essay"
+  weight = 2
+  parent = "genitore"
 
+[[menu.main]]
+  name = "Notes"
+  url = "/categories/notes"
+  weight = 3
+  parent = "genitore"
+
+[[menu.main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 4
 
 [[menu.main]]
   name = "About"
   url = "#about"
-  weight = 3
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
