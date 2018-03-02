@@ -33,31 +33,29 @@ a:hover {
 
 .article-metadata a:hover {
     color: rgb(76,175,80);
+}
 
 /* Standard buttons */
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: rgb(0,230,118) !important;
-    color: rgb(0,230,118) !important;
+    color: rgb(76,175,80) !important;
+    border-color: rgb(76,175,80) !important;
 }
 
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: rgb(0,230,118) !important;
+    border-color: rgb(76,175,80) !important;
 }
 
-.btn-primary:hover {
-    background-color: rgba(0,230,118,0.2) !important;
-}
-
+.btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
 .btn-primary:visited,
 .btn-primary.btn-outline:active {
-    background-color: rgb(76,175,80);
+    background-color: rgb(76,175,80) !important;
 }
 
 /* Navbar buttons */
@@ -86,7 +84,8 @@ a:hover {
   background-color: rgba(0,230,118,1);
 }
 
-.dark ul.share li a {
-    background-color: rgba(0,230,118,0);
-}
+/* share buttons */
 
+.dark ul.share li a {
+    background-color: rgba(0,0,0,0) !important;
+}
