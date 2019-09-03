@@ -13,15 +13,15 @@
 
 # Static engine of your blog
 # - One of: general, html, jekyll, octopress, hexo
-siteEngine: "general"
+siteEngine: "hugo"
 # Website URL of your blog
 siteUrl: "rizzoli.me.uk"
 
 # Root directory to your blog
 # - Leave it empty to use the current project path (recommended)
-siteLocalDir: "~/Work/notebok_hugo"
+siteLocalDir: "~/Work/notebook_hugo"
 # Directory to drafts from siteLocalDir
-siteDraftsDir: "drafts/"
+siteDraftsDir: "content/drafts/"
 # Directory to posts from siteLocalDir
 sitePostsDir: "content/post"
 # Directory to images from siteLocalDir
@@ -55,9 +55,9 @@ frontMatter: """
 ---
 title: "{title}"
 date: "{date}"
-author:
+author: Marco Rizzoli
 categories:
-tags: 
+tags:
 ---
 """
 
