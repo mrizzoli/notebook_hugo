@@ -19,7 +19,7 @@ siteUrl: "rizzoli.me.uk"
 
 # Root directory to your blog
 # - Leave it empty to use the current project path (recommended)
-siteLocalDir: "~/Work/notebook_hugo"
+siteLocalDir: "home/maruf/Work/notebook_hugo"
 # Directory to drafts from siteLocalDir
 siteDraftsDir: "content/drafts/"
 # Directory to posts from siteLocalDir
